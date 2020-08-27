@@ -14,6 +14,7 @@ Source0:	https://github.com/gemian/ofono-qt/archive/master/ofono-qt-%{snapshot}.
 BuildRequires:	pkgconfig(ofono)
 BuildRequires:	qmake5
 BuildRequires:	make
+BuildRequires:	doxygen
 BuildRequires:	pkgconfig(Qt5Core)
 BuildRequires:	pkgconfig(Qt5DBus)
 BuildRequires:	pkgconfig(Qt5Quick)
